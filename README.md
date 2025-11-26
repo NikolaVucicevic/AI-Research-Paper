@@ -19,8 +19,8 @@ This research focuses on automated analysis of public speech using Large Languag
 
 ## 📌 Status
 
-The paper is **mostly complete** — the core system and results are fully implemented.  
-The included PDF represents a **near-final** version, with only minor formatting improvements possible.
+**The paper is unfinished — several chapters and details still need to be added.
+The included PDF is an early draft.**
 
 ---
 
